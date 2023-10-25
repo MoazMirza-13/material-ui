@@ -688,6 +688,7 @@ const Root = styled('div')(
         boxShadow: `inset 0 -2px 0 var(--muidocs-palette-primaryDark-700, ${darkTheme.palette.primaryDark[700]})`,
       },
     },
+    zsad,
   }),
 );
 
